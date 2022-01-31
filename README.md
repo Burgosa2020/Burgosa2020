@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burgosa2020
 - 👀 I’m interested in Psychology
-- 🌱 I’m currently learning Data SCience
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on different projects for my data science class
 - 📫 Please do not reach out to me, spam emails make me nervous :P
 
